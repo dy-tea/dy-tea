@@ -6,4 +6,4 @@ Hello!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-tea&layout=compact&theme=dark)
 
-<img src="https://raw.githubusercontent.com/dy-teav/dy-teav/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dy-tea/dy-tea/output/snake.svg" alt="Snake animation" />
