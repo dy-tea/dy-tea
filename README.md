@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dy-tea/dy-tea/output/snake.svg" alt="Snake animation" />
+
 Hello!
 - My name is Dylan Donnell.
 - I am student at Griffith College Cork.
@@ -8,4 +10,3 @@ Hello!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-tea&theme=transparent&langs_count=10)
 
-<img src="https://raw.githubusercontent.com/dy-tea/dy-tea/output/snake.svg" alt="Snake animation" />
